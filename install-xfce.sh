@@ -1,0 +1,1 @@
+apt install mint-meta-xfce xfce4-battery-plugin xfce4-sensors-plugin xfce4-terminal
